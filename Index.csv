@@ -1,0 +1,176 @@
+State,Code,District,Code,,State,Code,District,Code,,State,Code,District,Code
+Andhra Pradesh,1,Chittoor,1,,Kerala,10,Alappuzha,1,,Rajasthan,19,Ajmer,1
+,,East Godavari,2,,,,Ernakulam,2,,,,Alwar,2
+,,Guntur,3,,,,Idukki,3,,,,Banswara,3
+,,Krishna,4,,,,Kannur,4,,,,Baran,4
+,,Kurnool,5,,,,Kasaragod,5,,,,Barmer,5
+,,Prakasam,6,,,,Kollam,6,,,,Bharatpur,6
+,,Srikakulam,7,,,,Kottayam,7,,,,Bhilwara,7
+,,Vizianagaram,8,,,,Kozhikode,8,,,,Bikaner,8
+,,West Godavari,9,,,,Malappuram,9,,,,Bundi,9
+,,,,,,,Palakkad,10,,,,Churu,10
+Arunachal Pradesh,2,Papum Pare,1,,,,Pathanamthitta,11,,,,Dausa,11
+,,,,,,,Thiruvananthapuram,12,,,,Dungarpur,12
+Bihar,3,Araria,1,,,,Thrissur,13,,,,Hanumangarh,13
+,,Aurangabad,2,,,,Wayanad,14,,,,Jaipur,14
+,,Banka,3,,,,,,,,,Jaisalmer,15
+,,Begusarai,4,,Madhya Pradesh,11,Anuppur,1,,,,Jalore,16
+,,Bhagalpur,5,,,,Ashoknagar,2,,,,Jhalawar,17
+,,Bhojpur,6,,,,Balaghat,3,,,,Jhunjhunu,18
+,,Buxar,7,,,,Barwani,4,,,,Jodhpur,19
+,,Darbhanga,8,,,,Betul,5,,,,Karauli,20
+,,Gaya,9,,,,Bhind,6,,,,Kota,21
+,,Gopalganj,10,,,,Bhopal,7,,,,Nagaur,22
+,,Jamui,11,,,,Burhanpur,8,,,,Pali,23
+,,Jehanabad,12,,,,Chhatarpur,9,,,,Pratapgarh,24
+,,Kaimur,13,,,,Chhindwara,10,,,,Rajsamand,25
+,,Katihar,14,,,,Damoh,11,,,,Sawai Madhopur,26
+,,Khagaria,15,,,,Datia,12,,,,Sikar,27
+,,Kishanganj,16,,,,Dewas,13,,,,Sirohi,28
+,,Lakhisarai,17,,,,Dhar,14,,,,Tonk,29
+,,Madhepura,18,,,,Guna,15,,,,Udaipur,30
+,,Madhubani,19,,,,Gwalior,16,,,,,
+,,Munger,20,,,,Harda,17,,Tamil Nadu,20,Ariyalur,1
+,,Muzaffarpur,21,,,,Hoshangabad,18,,,,Chennai,2
+,,Nalanda,22,,,,Indore,19,,,,Coimbatore,3
+,,Nawada,23,,,,Jabalpur,20,,,,Cuddalore,4
+,,Patna,24,,,,Jhabua,21,,,,Dharmapuri,5
+,,Purnia,25,,,,Katni,22,,,,Dindigul,6
+,,Rohtas,26,,,,Khandwa,23,,,,Erode,7
+,,Saharsa,27,,,,Khargone,24,,,,Kanyakumari,8
+,,Samastipur,28,,,,Mandla,25,,,,Karur,9
+,,Saran,29,,,,Mandsaur,26,,,,Krishnagiri,10
+,,Sheikhpura,30,,,,Morena,27,,,,Madurai,11
+,,Siwan,31,,,,Narsinghpur,28,,,,Nagapattinam,12
+,,Supaul,32,,,,Neemuch,29,,,,Namakkal,13
+,,Vaishali,33,,,,Panna,30,,,,Nilgiris,14
+,,,,,,,Raisen,31,,,,Perambalur,15
+Chhattisgarh,4,Balod,1,,,,Rajgarh,32,,,,Pudukkottai,16
+,,Baloda Bazar,2,,,,Ratlam,33,,,,Ramanathapuram,17
+,,Balrampur,3,,,,Rewa,34,,,,Salem,18
+,,Bastar,4,,,,Sagar,35,,,,Sivaganga,19
+,,Bilaspur,5,,,,Satna,36,,,,Thanjavur,20
+,,Dhamtari,6,,,,Sehore,37,,,,Theni,21
+,,Durg,7,,,,Seoni,38,,,,Thiruvarur,22
+,,Jashpur,8,,,,Shahdol,39,,,,Tiruchirappalli,23
+,,Korba,9,,,,Shajapur,40,,,,Tirunelveli,24
+,,Koriya,10,,,,Shivpuri,41,,,,Tiruppur,25
+,,Mahasamund,11,,,,Singrauli,42,,,,Tiruvannamalai,26
+,,Mungeli,12,,,,Tikamgarh,43,,,,Vellore,27
+,,Raigarh,13,,,,Ujjain,44,,,,Virudhunagar,28
+,,Raipur,14,,,,Umaria,45,,,,,
+,,Rajnandgaon,15,,,,Vidisha,46,,Tripura,21,Gomati,1
+,,Surajpur,16,,,,,,,,,North Tripura,2
+,,Surguja,17,,West Bengal,24,Alipurduar,1,,,,Sipahijala,3
+,,,,,,,Bankura,2,,,,South Tripura,4
+Gujarat,5,Ahmedabad,1,,,,Birbhum,3,,,,West Tripura,5
+,,Amreli,2,,,,Cooch Behar,4,,,,,
+,,Anand,3,,,,Dakshin Dinajpur,5,,Uttar Pradesh,22,Agra,1
+,,Aravalli,4,,,,Darjeeling,6,,,,Aligarh,2
+,,Banaskantha,5,,,,Hooghly,7,,,,Ambedkar Nagar,3
+,,Bharuch,6,,,,Howrah,8,,,,Amethi,4
+,,Bhavnagar,7,,,,Jalpaiguri,9,,,,Amroha,5
+,,Botad,8,,,,Kolkata,10,,,,Auraiya,6
+,,Chhota Udaipur,9,,,,Malda,11,,,,Azamgarh,7
+,,Dahod,10,,,,Murshidabad,12,,,,Bahraich,8
+,,Gandhinagar,11,,,,Nadia,13,,,,Ballia,9
+,,Gir Somnath,12,,,,North 24 Parganas,14,,,,Balrampur,10
+,,Jamnagar,13,,,,Purba Medinipur,15,,,,Banda,11
+,,Junagadh,14,,,,Purulia,16,,,,Barabanki,12
+,,Kheda,15,,,,South 24 Parganas,17,,,,Bareilly,13
+,,Kutch,16,,,,Uttar Dinajpur,18,,,,Basti,14
+,,Mehsana,17,,,,,,,,,Bijnor,15
+,,Morbi,18,,Maharashtra,12,Ahmednagar,1,,,,Chandauli,16
+,,Navsari,19,,,,Akola,2,,,,Chitrakoot,17
+,,Panchmahal,20,,,,Amravati,3,,,,Deoria,18
+,,Patan,21,,,,Aurangabad,4,,,,Etah,19
+,,Porbandar,22,,,,Beed,5,,,,Etawah,20
+,,Rajkot,23,,,,Bhandara,6,,,,Farrukhabad,21
+,,Surat,24,,,,Buldhana,7,,,,Fatehpur,22
+,,Surendranagar,25,,,,Chandrapur,8,,,,Firozabad,23
+,,Tapi,26,,,,Dhule,9,,,,Ghaziabad,24
+,,Vadodara,27,,,,Gadchiroli,10,,,,Ghazipur,25
+,,Valsad,28,,,,Gondia,11,,,,Gonda,26
+,,,,,,,Hingoli,12,,,,Gorakhpur,27
+Haryana,6,Ambala,1,,,,Jalgaon,13,,,,Hamirpur,28
+,,Bhiwani,2,,,,Jalna,14,,,,Hapur,29
+,,Faridabad,3,,,,Kolhapur,15,,,,Hardoi,30
+,,Fatehabad,4,,,,Latur,16,,,,Hathras,31
+,,Hisar,5,,,,Mumbai,17,,,,Jalaun,32
+,,Jhajjar,6,,,,Nagpur,18,,,,Jaunpur,33
+,,Jind,7,,,,Nanded,19,,,,Jhansi,34
+,,Kaithal,8,,,,Nandurbar,20,,,,Kannauj,35
+,,Karnal,9,,,,Nashik,21,,,,Kanpur Dehat,36
+,,Kurukshetra,10,,,,Osmanabad,22,,,,Kanpur Nagar,37
+,,Mahendragarh,11,,,,Palghar,23,,,,Kaushambi,38
+,,Palwal,12,,,,Parbhani,24,,,,Kushinagar,39
+,,Panchkula,13,,,,Pune,25,,,,Lakhimpur Kheri,40
+,,Panipat,14,,,,Raigad,26,,,,Lalitpur,41
+,,Rewari,15,,,,Ratnagiri,27,,,,Lucknow,42
+,,Rohtak,16,,,,Sangli,28,,,,Maharajganj,43
+,,Sirsa,17,,,,Satara,29,,,,Mahoba,44
+,,,,,,,Sindhudurg,30,,,,Mainpuri,45
+Himachal Pradesh,7,Bilaspur,1,,,,Solapur,31,,,,Mathura,46
+,,Chamba,2,,,,Thane,32,,,,Mau,47
+,,Hamirpur,3,,,,Wardha,33,,,,Meerut,48
+,,Kangra,4,,,,Washim,34,,,,Mirzapur,49
+,,Kullu,5,,,,Yavatmal,35,,,,Moradabad,50
+,,Mandi,6,,,,,,,,,Muzaffarnagar,51
+,,Shimla,7,,Meghalaya,13,East Khasi Hills,1,,,,Pilibhit,52
+,,Sirmaur,8,,,,West Garo Hills,2,,,,Pratapgarh,53
+,,Solan,9,,,,,,,,,Prayagraj,54
+,,Una,10,,Mizoram,14,Aizawl,1,,,,Rae Bareli,55
+,,,,,,,,,,,,Rampur,56
+Jharkhand,8,Bokaro,1,,Nagaland,15,Dimapur,1,,,,Saharanpur,57
+,,Chatra,2,,,,Kohima,2,,,,Sambhal,58
+,,Deoghar,3,,,,,,,,,Sant Kabir Nagar,59
+,,Dhanbad,4,,Odisha,16,Angul,1,,,,Shahjahanpur,60
+,,Dumka,5,,,,Balangir,2,,,,Shamli,61
+,,East Singhbhum,6,,,,Balasore,3,,,,Shrawasti,62
+,,Giridih,7,,,,Bargarh,4,,,,Siddharthnagar,63
+,,Godda,8,,,,Bhadrak,5,,,,Sitapur,64
+,,Gumla,9,,,,Cuttack,6,,,,Sonbhadra,65
+,,Hazaribagh,10,,,,Dhenkanal,7,,,,Sultanpur,66
+,,Jamtara,11,,,,Gajapati,8,,,,Unnao,67
+,,Khunti,12,,,,Ganjam,9,,,,Varanasi,68
+,,Koderma,13,,,,Jagatsinghpur,10,,,,,
+,,Lohardaga,14,,,,Jajpur,11,,Uttarakhand,23,Almora,1
+,,Pakur,15,,,,Jharsuguda,12,,,,Chamoli,2
+,,Palamu,16,,,,Kalahandi,13,,,,Dehradun,3
+,,Ramgarh,17,,,,Kandhamal,14,,,,Haridwar,4
+,,Ranchi,18,,,,Kendrapara,15,,,,Nainital,5
+,,Sahibganj,19,,,,Kendujhar,16,,,,Pauri Garhwal,6
+,,West Singhbhum,20,,,,Khordha,17,,,,Udham Singh Nagar,7
+,,,,,,,Koraput,18,,,,,
+Karnataka,9,Belagavi,1,,,,Mayurbhanj,19,,Punjab,18,Jalandhar,10
+,,Bidar,2,,,,Nayagarh,20,,,,Kapurthala,11
+,,Chikkamagaluru,3,,,,Nuapada,21,,,,Ludhiana,12
+,,Chitradurga,4,,,,Puri,22,,,,Mansa,13
+,,Dakshina Kannada,5,,,,Rayagada,23,,,,Moga,14
+,,Davanagere,6,,,,Sambalpur,24,,,,Pathankot,15
+,,Dharwad,7,,,,Subarnapur,25,,,,Patiala,16
+,,Gadag,8,,,,Sundargarh,26,,,,Rupnagar,17
+,,Hassan,9,,,,,,,,,Sangrur,18
+,,Haveri,10,,Puducherry,17,Karaikal,1,,,,Sri Muktsar Sahib,19
+,,Kodagu,11,,,,,,,,,Tarn Taran,20
+,,Kolar,12,,Punjab,18,Amritsar,1,,,,,
+,,Koppal,13,,,,Barnala,2,,,,,
+,,Mandya,14,,,,Bathinda,3,,,,,
+,,Mysuru,15,,,,Faridkot,4,,,,,
+,,Raichur,16,,,,Fatehgarh Sahib,5,,,,,
+,,Ramanagara,17,,,,Fazilka,6,,,,,
+,,Udupi,18,,,,Ferozepur,7,,,,,
+,,Uttara Kannada,19,,,,Gurdaspur,8,,,,,
+,,Yadgir,20,,,,Hoshiarpur,9,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
